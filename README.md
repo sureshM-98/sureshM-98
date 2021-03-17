@@ -1,6 +1,6 @@
 ### Hi there, I'm Suresh 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/SureshM7198)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SureshM7198?style=social)](https://twitter.com/SureshM7198)
 
 ## I'm a Developer, Graphic designer, Illustrator, and UI/UX Designer!!
 
