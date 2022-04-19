@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/SureshM7198?style=social)](https://twitter.com/SureshM7198)
 
-## I'm a Developer, Graphic designer, Illustrator, and UI/UX Designer!!
+## I'm a Full Stack Developer, Graphic designer, Illustrator, and UI/UX Designer!!
 
 - 🔭 I’m currently working on MERN Stack development.
 - 🌱 I’m currently learning everything.
